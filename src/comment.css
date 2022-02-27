@@ -1,0 +1,51 @@
+.container{
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #000;
+}
+.editId{
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+.user{
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+.content{
+  width: 100%;
+  box-sizing: border-box;
+  margin-bottom:10px ;
+}
+.title{
+  text-align: center;
+  margin-top: 30px;
+}
+.citem{
+  display: flex;
+  justify-content: space-between;
+}
+.buttons{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  width:50px ;
+  height: 50px;
+}
+.delete{
+  width: 45px;
+  height: 20px;
+}
+.edit{
+  width: 45px;
+  height: 20px;
+}
+.searchArea{
+  width: 300px;
+  padding: 10px;
+  border: 1px solid #000;
+  position: absolute;
+  left: 350px;
+  top: 0;
+}
